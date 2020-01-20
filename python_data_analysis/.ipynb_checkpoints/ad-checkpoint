@@ -1,0 +1,60 @@
+[33mcommit b1ba9f0a35999ee0d978ca337515ccbdb95ff3da[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: pulum03 <pulum03@gmail.com>
+Date:   Sun Oct 6 00:12:02 2019 +0900
+
+    ...
+
+[33mcommit b23d22bb662c2ece47a1dfadcbd4c9608ef4614e[m
+Author: pulum03 <pulum03@gmail.com>
+Date:   Sat Oct 5 23:47:52 2019 +0900
+
+    data preprocessing
+
+[33mcommit bb2277366afcbf483222f0c7e86e5c51604f11c9[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: pulum03 <pulum03@gmail.com>
+Date:   Tue Oct 1 02:05:58 2019 +0900
+
+    pivot, timestamp,category_cut, ...
+
+[33mcommit f8889c821b4c2c4dda1cdf994f48efb88be0d389[m
+Author: pulum03 <pulum03@gmail.com>
+Date:   Tue Oct 1 01:15:22 2019 +0900
+
+    Update README.md
+
+[33mcommit a146a2cec2b0d1d93e7a92399979c51f21c58ec4[m
+Author: pulum03 <pulum03@gmail.com>
+Date:   Tue Oct 1 00:52:53 2019 +0900
+
+    Delete python_.ipynb
+
+[33mcommit dbb150f454142c547a5f6917e370df14759ad641[m
+Merge: dc5e364 016df68
+Author: pulum03 <pulum03@gmail.com>
+Date:   Tue Oct 1 00:50:34 2019 +0900
+
+    Merge branch 'master' of https://github.com/pulum03/python_data_analysis
+
+[33mcommit dc5e364634a8e41abd759c8da8473ca3a213db6a[m
+Author: pulum03 <pulum03@gmail.com>
+Date:   Tue Oct 1 00:47:57 2019 +0900
+
+    groupby, mathod_chaining, join_merge
+
+[33mcommit 016df6871e4b71b61525d553ea66dbf61ce3a0d0[m
+Author: pulum03 <pulum03@gmail.com>
+Date:   Mon Sep 30 17:48:08 2019 +0900
+
+    Update README.md
+
+[33mcommit 9ac579b5acbba34f34afbb86782354eac5dcba26[m
+Author: pulum03 <pulum03@gmail.com>
+Date:   Mon Sep 30 17:47:12 2019 +0900
+
+    np,pd, distribution ~ing
+
+[33mcommit 6ab8468541a5bb326ed56b8835b9d304988fedf8[m
+Author: pulum03 <pulum03@gmail.com>
+Date:   Mon Sep 30 17:45:59 2019 +0900
+
+    first commit
